@@ -1,0 +1,33 @@
+# 1
+sudo apt-get install git
+
+# 2
+git config --global user.name "user_name"
+git config --global user.email "user_email"
+
+# 3
+git init TestRepository
+
+# 4
+cd Test Repository
+
+------------ poslije instalacije -------------------
+
+# 5
+kreiraj SampleFile
+
+# 6
+git add SampleFile - mora se uraditi nakon svake izmjene ili brisanja fajla u folderu
+
+# 7 
+git commit -m "poruka promjene"
+
+# 8
+git remote set-url origin https://username@github.com/user/repozitorijum.git
+pass: sifra sa githuba
+
+# 9
+git push origin master
+
+toeto
+

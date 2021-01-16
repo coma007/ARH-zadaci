@@ -1,0 +1,58 @@
+T12                                                             OK :)
+
+zad1. Sabrati prvih n prirodnih brojeva.                        OK
+zad2. Faktorijel broja.                                         OK
+zad3. n-ti clan Fibonacijevog niza.                             OK
+zad4. Premjestanje (bzvz).                                      OK
+zad5. Mnozenje sabiranjem, oznaceni.                            OK 
+zad6. Pronalazenje n-tog clana Fibonacijevog niza sa greskom.   OK 
+zad7. Fibonacijev niz - dvostruka preciznost.                   OK		
+zad8. Suma podniza.						                        OK
+zad9. NZD.                                                      OK
+zad10. Uporedjivanje brojeva (neoznaceni).                      OK
+zad11. Premjestanje (bzvz).                                     OK
+zad12. Premjestanje 2 (bzvz).                                   OK
+zad13. Sabiranje, dvostruka preciznost.                         OK
+zad14. Dijeljenje oduzimanjem, dvosturka preciznost.            OK
+zad15. NIZ - indeksno (bzvz).                                   OK
+zad16. Minimax.                                                 OK
+zad17. Izbacivanje razmaka i sa pocetka i sa kraja i izmedju.   OK
+zad18. NIZ - indirektno (sabiranje).                            OK
+zad19. Sortiranje niza (32 bit).                                OK !!!
+zad20. NIZ - indeksno (sabiranje).                              OK
+zad21. Sortiranje niza (16 bit).			                 	OK
+zad22. Izbacivanje razmaka sa kraja stringa.                    OK
+zad23. Izbacivanje razmaka sa pocetka stringa.                  OK
+
+sistemski pozivi:                                               OK
+z1.zip - Ispis i upis imena, velika slova.                      OK
+z2.zip - Palindromi.                                            OK !!!
+z3.zip - Lista stringova.                                       OK
+
+-------------------------------------------------------------------------------------------------------------
+T34                                                             OK <3
+
+potprogrami:                                                    AJ OK
+z1.zip Fibonaci.                                                OK
+z2.zip Fibonaci rekurzija.                                      nije zapoceto
+z3.zip Sabiranje niza.                                          OK
+
+rukovanje bitima:                                               OK <3
+z1.zip	Napravi masku.                                          OK
+z2.zip	Napravi masku 64bit.                                    OK
+z3.zip	Postavi paritet.                                        OK
+
+--------------------------------------------------------------------------------------------------------------
+SOV                                                             OK *o*
+
+int -> str:                                                     OK
+oktalni.                                                        OK
+oktalni_oznaceni.                                               OK
+razlomljeni.						                            OK
+
+str -> int:                                                     AJ OK
+oktalni.                                                        OK
+oktalni_oznaceni.                                               OK
+razlomljeni.                                                    OK
+sabiranje.                                                      nije zapoceto
+
